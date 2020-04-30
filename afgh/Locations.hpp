@@ -7,8 +7,23 @@ protected:
     Regions r;
     int SurfaceArea;
     int BorderLength;
-    int FastTravelSigns;
+    bool FastTravelSigns;
+public:
+    Locations(Regions r1,int SurfaceArea1, int BorderLength1, bool FastTravelSigns1)
+    {
+        r=r1;
+        SurfaceArea=SurfaceArea1;
+        BorderLength=BorderLength1;
+        FastTravelSigns=FastTravelSigns1;
 
+
+    }
+    void Lokacija()
+    {
+        if (FastTravelSigns==true)
+            Region=Region+1;
+
+    }
 
 
 

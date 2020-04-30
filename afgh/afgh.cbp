@@ -32,6 +32,17 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="Armor.hpp" />
+		<Unit filename="BaseStats.hpp" />
+		<Unit filename="Books.hpp" />
+		<Unit filename="CombatSigns.hpp" />
+		<Unit filename="HorseItems.hpp" />
+		<Unit filename="KlasaIgrac.hpp" />
+		<Unit filename="LegendaryArmor.hpp" />
+		<Unit filename="Locations.hpp" />
+		<Unit filename="Monsters.hpp" />
+		<Unit filename="Oprema.hpp" />
+		<Unit filename="Weapons.hpp" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
