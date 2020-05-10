@@ -43,6 +43,7 @@
 		<Unit filename="Monsters.hpp" />
 		<Unit filename="Oprema.hpp" />
 		<Unit filename="Weapons.hpp" />
+		<Unit filename="Weapons.txt" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<lib_finder disable_auto="1" />

@@ -1,0 +1,5 @@
+SilverSword,576,700,2,100Igni,0,10,50,false
+SteelSword,550,1000,1,90Axii,0,20,0,true
+CrossBow,77,5000,100,1Quen,200,2,20,false
+Fists,50,10000,1,25Aard,0,35,100,false
+WarAxe,100,500,3,5Yrden,100,35,10,false

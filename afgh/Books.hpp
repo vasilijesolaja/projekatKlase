@@ -6,8 +6,11 @@ class Books
 protected:
     Volumes v;
     int Chapters;
-    int Pages,
+    int Pages;
     bool Scroll;
+
+    static int CBN;             //CBN-CURRENT BOOK NUMBER
+
 
 
 

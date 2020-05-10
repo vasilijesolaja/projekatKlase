@@ -8,7 +8,14 @@ protected:
     int Stamina;
     int Value;
     int Perks;
-
+public:
+    HorseItems(HorseEquipment he1, int Stamina1, int Value1, int Perks1)
+    {
+        he=he1;
+        Stamina=Stamina1;
+        Value=Value1;
+        Perks=Perks1;
+    }
 
 
 
