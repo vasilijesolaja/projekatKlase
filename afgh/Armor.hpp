@@ -8,16 +8,19 @@ protected:
     int Durability;
     int Rarity;
 public:
-    Armor(Protection p1, int Durability1, int Rarity1)
+    Armor(Protection p1=Chestplate, int Durability1=50, int Rarity1=1)
     {
         p=p1;
         Durability=Durability1;
         Rarity=Rarity1;
-
-
-
-
     }
+        virtual void Ispis()
+        {
+            cout<<p<<endl;
+            cout<<Durability<<endl;
+            cout<<Rarity<<endl;
+        }
+
 };
 
 

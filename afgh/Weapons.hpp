@@ -19,16 +19,16 @@ public:
         Resistance=Resistance2;
         Range=Range2;
         AttackSpeed=AttackSpeed2;
-
-
-
-
     }
-
-
-
-
-
+        Offensive getOffensive() const
+        {
+            return o;
+        }
+        friend ostream& operator<<(ostream& output, const Weapons& w)
+    {
+        output<<w.o<<" "<<w.Damage<<" "<<w.Resistance<<" "<<w.Range<<" "<<w.AttackSpeed<<" "<<w.CB<<endl;
+        return output;
+    }
 };
 
 #endif // WEAPONS_HPP_INCLUDED
