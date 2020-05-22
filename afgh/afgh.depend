@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1590183746 source:c:\users\vasilije\documents\github\projekatklase\afgh\main.cpp
+1590185725 source:c:\users\vasilije\documents\github\projekatklase\afgh\main.cpp
 	<iostream>
 	<fstream>
 	"Armor.hpp"

@@ -140,14 +140,12 @@ int main()
             }
 
     }
-    cin>>x;
     if(x==2)
     {
         int z;
         cout<<"Ovo je vas inventar, ovde mozete birati koja oruzja i koji oklop zelite poneti na quest!"<<endl;
         cout<<"Da biste izabrali ceo oklopni set i srebrni mac, pritisnite taster 1"<<endl;
         cout<<"Da biste izabrali ceo oklopni set i celicni mac, pritisnite taster 2"<<endl;
-        cin>>z;
         if(z==1)
         {
             cout<<"Izabrali ste ceo oklopni set i srebrni mac! Da li ste sigurni da zelite ovaj izbor opreme?"<<endl;
