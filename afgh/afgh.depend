@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1589663993 source:c:\users\vasilije\documents\github\projekatklase\afgh\main.cpp
+1590183746 source:c:\users\vasilije\documents\github\projekatklase\afgh\main.cpp
 	<iostream>
 	<fstream>
 	"Armor.hpp"
@@ -18,11 +18,11 @@
 
 1589146543 c:\users\vasilije\documents\github\projekatklase\afgh\books.hpp
 
-1587926031 c:\users\vasilije\documents\github\projekatklase\afgh\basestats.hpp
+1590180905 c:\users\vasilije\documents\github\projekatklase\afgh\basestats.hpp
 
 1589144284 c:\users\vasilije\documents\github\projekatklase\afgh\horseitems.hpp
 
-1589663942 c:\users\vasilije\documents\github\projekatklase\afgh\klasaigrac.hpp
+1590174144 c:\users\vasilije\documents\github\projekatklase\afgh\klasaigrac.hpp
 	<vector>
 	"Weapons.hpp"
 	"CombatSigns.hpp"
@@ -36,10 +36,10 @@
 	"Weapons.hpp"
 	"HorseItems.hpp"
 
-1589663617 c:\users\vasilije\documents\github\projekatklase\afgh\weapons.hpp
+1590172836 c:\users\vasilije\documents\github\projekatklase\afgh\weapons.hpp
 	"CombatSigns.hpp"
 
-1589145529 c:\users\vasilije\documents\github\projekatklase\afgh\combatsigns.hpp
+1590173982 c:\users\vasilije\documents\github\projekatklase\afgh\combatsigns.hpp
 
 1589660130 c:\users\vasilije\documents\github\projekatklase\afgh\legendaryarmor.hpp
 

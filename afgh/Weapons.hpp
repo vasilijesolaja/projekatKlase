@@ -29,6 +29,30 @@ public:
         output<<w.o<<" "<<w.Damage<<" "<<w.Resistance<<" "<<w.Range<<" "<<w.AttackSpeed<<" "<<w.CB<<endl;
         return output;
     }
+    void setOffesnsive(int x)
+    {
+        if(x == 1)
+        {
+            o=SteelSword;
+        }
+        else if(x == 2)
+        {
+            o=SilverSword;
+        }
+        else if (x == 3)
+        {
+            o=CrossBow;
+        }
+        else if(x == 4)
+        {
+            o=Fists;
+        }
+        else if(x == 5)
+        {
+            o=WarAxe;
+        }
+    }
+
 };
 
 #endif // WEAPONS_HPP_INCLUDED

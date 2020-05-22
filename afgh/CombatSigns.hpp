@@ -29,6 +29,34 @@ public:
 
         return output;
     }
+        void setHandSigns(int x)
+        {
+            if(x == 1)
+        {
+            hs=Quen;
+        }
+            else if(x==2)
+        {
+            hs=Igni;
+        }
+            else if(x==2)
+        {
+              hs=Aard;
+        }
+            else if(x==2)
+        {
+              hs=Yrden;
+        }
+            else if(x==2)
+        {
+              hs=Axii;
+        }
+
+
+
+
+
+        }
 
 
 

@@ -1,0 +1,2 @@
+Health karaktera je: 180
+Stamina karaktera je: 95

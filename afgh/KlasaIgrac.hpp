@@ -53,7 +53,7 @@ public:
     }
     void AddWeapon(Weapons* w)
     {
-        /*Offensive o;
+        int o;
         int Damage;
         int Resistance;
         int Range;
@@ -64,25 +64,7 @@ public:
         int Destructivness;
         bool MindControl;
         cout<<"Offensive: ";
-        cin>>o;
-        cout<<"Damage: ";
-        cin>>Damage;
-        cout<<"Range: ";
-        cin>>Range;
-        cout<<"Attack Speed: ";
-        cin>>AttackSpeed;
-        cout<<"Hand Signs: ";
-        cin>>hs;
-        cout<<"Defence: ";
-        cin>>Defence;
-        cout<<"Radius: ";
-        cin>>Radius;
-        cout<<"Destructivness: ";
-        cin>>Destructivness;
-        cout<<"Mind Control: ";
-        cin>>MindControl;
-        Weapons*w = new Weapons(o,Damage,Resistance,Range,AttackSpeed,CB);
-        */Arsenal.push_back(*w);
+        Arsenal.push_back(*w);
         cout<<"Dodat u vector tmine"<<endl;
     }
     void ListWeapons()
